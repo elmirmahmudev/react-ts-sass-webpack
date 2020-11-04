@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto';
+    src:  url('./Roboto/Roboto-Medium.ttf') format('truetype');
+}
+* {
+    font-family: 'Roboto';
+}
+html {
+    background-color: grey;
+}
+.hello {
+    color: red;
+    font-family: 'Roboto';
+    background: url('./logo.png');
+}
